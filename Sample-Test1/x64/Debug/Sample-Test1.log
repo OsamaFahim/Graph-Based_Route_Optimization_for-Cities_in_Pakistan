@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\data structures university\Assignment3\Sample-Test1\Sample-Test1\Graph.h(139,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sample-Test1.vcxproj -> E:\data structures university\Assignment3\Sample-Test1\x64\Debug\Sample-Test1.exe
