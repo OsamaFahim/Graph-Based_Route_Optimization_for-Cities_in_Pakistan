@@ -93,6 +93,6 @@ Sample-Test1
 
 ---
 
-**Note**: The Visual Studio Project was very large so if the given Project doesnot work kindly make a new Visual Studio Project and the given Code Files to the newly created Visual Studio Project and then you will be able to use this project. 
+**Note: The Visual Studio Project was very large so if the given Project doesnot work kindly make a new Visual Studio Project and the given Code Files to the newly created Visual Studio Project and then you will be able to use this project.** 
 
 Feel free to contribute by opening an issue or submitting a pull request.
